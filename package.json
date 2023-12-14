@@ -1,0 +1,20 @@
+{
+  "name": "snorewise_be",
+  "version": "1.0.0",
+  "description": "- pip install Flask\r - pip install flask boto3\r - pip install flask-sqlalchemy\r - pip install Flask-Bcrypt\r - pip install pymysql\r - pip install -r requirements.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotchaporns/SnoreWise_BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotchaporns/SnoreWise_BE/issues"
+  },
+  "homepage": "https://github.com/kotchaporns/SnoreWise_BE#readme"
+}
